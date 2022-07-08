@@ -47,10 +47,10 @@ function App() {
           <Dropdown.Item onClick={() => handleChangePlatform('Star')}>Star +</Dropdown.Item>
       </DropdownButton>
         <Row>
-          <Col>
+          <Col sm={6}>
             {
               episode && (
-                <Card style={{width: '30rem'}}>
+                <Card>
                   <Card.Img src={episode.image} />
                   <Card.Body>
                     <Card.Title>

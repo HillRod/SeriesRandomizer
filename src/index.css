@@ -12,7 +12,7 @@ code {
     monospace;
 }
 
-#root{
+body{
   background: linear-gradient(45deg, rgba(248,219,32,1) 0%, rgba(255,255,255,1) 50%, rgba(47,100,214,1) 100%);
 }
 
