@@ -11,3 +11,38 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#root{
+  background: linear-gradient(45deg, rgba(248,219,32,1) 0%, rgba(255,255,255,1) 50%, rgba(47,100,214,1) 100%);
+}
+
+.platform-dropdown {
+  margin-top: 2rem;
+  margin-left: 2rem;
+  position:absolute !important;
+  top:0;
+  left:0;
+}
+
+.disney-button{
+  color: #fff;
+  background-color: #113ccf !important;
+  border-color: #0a58ca;
+}
+
+.disney-button:hover{
+  color: #fff;
+  background-color: #0b5ed7 !important;
+  border-color: #0a58ca;
+}
+
+.star-button{
+  color: #fff;
+  background-color: #d44e14!important;
+  border-color: #d44e14 !important;
+}
+.star-button:hover{
+  color: #fff;
+  background-color: #b63c08!important;
+  border-color: #b14111 !important;
+}
