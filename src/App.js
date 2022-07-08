@@ -46,8 +46,8 @@ function App() {
           <Dropdown.Item onClick={() => handleChangePlatform('Disney')}>Disney +</Dropdown.Item>
           <Dropdown.Item onClick={() => handleChangePlatform('Star')}>Star +</Dropdown.Item>
       </DropdownButton>
-        <Row>
-          <Col sm={6}>
+        <Row className="d-flex justify-content-center">
+          <Col sm={episode? 6 : 12}>
             {
               episode && (
                 <Card>
