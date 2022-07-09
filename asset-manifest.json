@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SimpsonsRandomizer/static/css/main.73b120b7.css",
+    "main.js": "/SimpsonsRandomizer/static/js/main.36acac7d.js",
+    "static/js/787.16397333.chunk.js": "/SimpsonsRandomizer/static/js/787.16397333.chunk.js",
+    "index.html": "/SimpsonsRandomizer/index.html",
+    "main.73b120b7.css.map": "/SimpsonsRandomizer/static/css/main.73b120b7.css.map",
+    "main.36acac7d.js.map": "/SimpsonsRandomizer/static/js/main.36acac7d.js.map",
+    "787.16397333.chunk.js.map": "/SimpsonsRandomizer/static/js/787.16397333.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73b120b7.css",
+    "static/js/main.36acac7d.js"
+  ]
+}
