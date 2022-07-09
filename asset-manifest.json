@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SimpsonsRandomizer/static/css/main.73b120b7.css",
-    "main.js": "/SimpsonsRandomizer/static/js/main.b9030bf8.js",
-    "static/js/787.16397333.chunk.js": "/SimpsonsRandomizer/static/js/787.16397333.chunk.js",
-    "index.html": "/SimpsonsRandomizer/index.html",
-    "main.73b120b7.css.map": "/SimpsonsRandomizer/static/css/main.73b120b7.css.map",
-    "main.b9030bf8.js.map": "/SimpsonsRandomizer/static/js/main.b9030bf8.js.map",
-    "787.16397333.chunk.js.map": "/SimpsonsRandomizer/static/js/787.16397333.chunk.js.map"
+    "main.css": "/SeriesRandomizer/static/css/main.73b120b7.css",
+    "main.js": "/SeriesRandomizer/static/js/main.91d4bbab.js",
+    "static/js/787.16397333.chunk.js": "/SeriesRandomizer/static/js/787.16397333.chunk.js",
+    "index.html": "/SeriesRandomizer/index.html",
+    "main.73b120b7.css.map": "/SeriesRandomizer/static/css/main.73b120b7.css.map",
+    "main.91d4bbab.js.map": "/SeriesRandomizer/static/js/main.91d4bbab.js.map",
+    "787.16397333.chunk.js.map": "/SeriesRandomizer/static/js/787.16397333.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.73b120b7.css",
-    "static/js/main.b9030bf8.js"
+    "static/js/main.91d4bbab.js"
   ]
 }
